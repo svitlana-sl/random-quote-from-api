@@ -48,3 +48,4 @@ export default tseslint.config({
   },
 })
 ```
+Published to random-api-quote.surge.sh
