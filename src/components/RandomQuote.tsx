@@ -39,7 +39,7 @@ const RandomQuote = () => {
           ? "Loading..."
           : error
           ? "Failed to load quote"
-          : `“${quote.advice}”`}
+          : `“${quote?.advice}”`}
       </p>
       <div className="divider">
         <span className="lines">||</span>
